@@ -4,6 +4,7 @@
         <url>https://easydesi.ru/</url>
         <email>info@easydesi.ru</email>
         <picture>http://abrow.site/archive/Logo200x200.svg</picture>
+	<description>Онлайн школа компьютерного дизайна для детей и подростков</description>
         <currencies>
             <currency id="RUR" rate="1"/>
         </currencies>
@@ -61,6 +62,7 @@
                 <!-- Возможные значения - "Сертификат", "Диплом", "Удостоверение" -->
                 <param name="Часы в неделю">1</param>
                 <!-- Описание курса -->
+		<description>Курс для творческих детей и подростков, на котором ребенок научится создавать иллюстрации, логотипы, плакаты и других визуальные элементы на компьютере</description>
             </offer>
         </offers>
     </shop>
